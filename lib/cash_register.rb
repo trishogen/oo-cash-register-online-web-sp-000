@@ -7,7 +7,7 @@ class CashRegister
   end
 
   def total
-    @total
+    self.total
   end
 
 end
